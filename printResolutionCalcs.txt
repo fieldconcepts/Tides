@@ -1,0 +1,9 @@
+# Paper size B2, 500mm x 700mm
+# 1 inch = 25.4mm
+# 150dpi min resolution for print
+#25.4/150 = 0.1693333mm per pixel
+
+# 500mm = 500/0.1693333 = 2952.75px
+# 700m = 700/0.1693333 = 4133.85px
+
+
